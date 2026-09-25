@@ -4,7 +4,7 @@
 
 ```
 $ N8N_ENCRYPTION_KEY=... npx github:onyxaholguin-cyber/n8n-key-check creds.json
-MATCH    N8N_ENCRYPTION_KEY  85e…03 (48 chars)  decrypts 8/8
+MATCH    N8N_ENCRYPTION_KEY  a1b…9f (48 chars)  decrypts 8/8
 
 OK: N8N_ENCRYPTION_KEY decrypts all 8 encrypted credential(s). Keep it with your backups.
 ```
