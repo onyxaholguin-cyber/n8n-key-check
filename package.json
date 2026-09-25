@@ -1,0 +1,14 @@
+{
+  "name": "n8n-key-check",
+  "version": "0.1.0",
+  "description": "Check that an N8N_ENCRYPTION_KEY decrypts your n8n credentials before you migrate, restore or upgrade. Reads exports, backup folders or database.sqlite. Never prints secrets.",
+  "bin": { "n8n-key-check": "bin/n8n-key-check.js" },
+  "main": "src/check.js",
+  "files": ["bin", "src"],
+  "scripts": { "test": "node --test test/check.test.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["n8n", "encryption", "N8N_ENCRYPTION_KEY", "backup", "restore", "migration", "self-hosting", "credentials"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/onyxaholguin-cyber/n8n-key-check.git" },
+  "homepage": "https://github.com/onyxaholguin-cyber/n8n-key-check#readme"
+}

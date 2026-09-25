@@ -1,0 +1,3 @@
+# candidate keys (fixtures, not secrets)
+old-laptop-key-not-it
+N8N_ENCRYPTION_KEY="fixture-key-NOT-a-secret-0123456789"

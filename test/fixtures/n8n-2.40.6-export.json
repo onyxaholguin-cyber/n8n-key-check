@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fx1",
+    "name": "Example Slack bot",
+    "type": "slackApi",
+    "data": "U2FsdGVkX1+11plBth10qxLcn22WL2z4XoKDgm47upq008dRwUtKPr/f2xz/RvA1AUhyM8QzURJflzrcuZ6J+Q=="
+  },
+  {
+    "id": "fx2",
+    "name": "Example Postgres",
+    "type": "postgres",
+    "data": "U2FsdGVkX18z0qdzPcAAfHBRQuJBH54tMHUIR/0wUY5MOsnnQKkfIGUn3c7q0ImmWpVy4MQSDIS0RuLqg3Ij5NS6EOKdWxZozgBvfs9xRGA="
+  },
+  {
+    "id": "fx3",
+    "name": "Example header auth",
+    "type": "httpHeaderAuth",
+    "data": "U2FsdGVkX1+RhXnJvuT3GhijDcBG9kG5bCtBUpF1j6MnnmZ/YRwXf8IQCy5cFc9tdjLe0lt1cedcr3Zoj2JksA=="
+  }
+]
