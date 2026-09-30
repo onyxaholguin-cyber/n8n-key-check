@@ -1,5 +1,7 @@
 # n8n-key-check
 
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json) [![guide: back up n8n properly](https://img.shields.io/badge/guide-back%20up%20n8n%20properly-0d9488)](https://onyxaholguin-cyber.github.io/sheet-and-flow/tutorials/backup-n8n-properly/) [![by: Sheet & Flow](https://img.shields.io/badge/by-Sheet%20%26%20Flow-0f766e)](https://onyxaholguin-cyber.github.io/sheet-and-flow/)
+
 **Does this `N8N_ENCRYPTION_KEY` actually decrypt my n8n credentials?** Find out *before* you migrate servers, restore a backup or rebuild a container, not after every credential shows "Credentials could not be decrypted".
 
 ```
